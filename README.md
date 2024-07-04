@@ -13,7 +13,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado solamente
 + **Google Icons**: Íconos personalizados.
 
 ### Vista previa del proyecto
-
+![Demo](/imagenes/preview..jpeg)
 ### Contacto 
 + **Jessica Martínez**: [Mi LinkedIn](www.linkedin.com/in/jessica-martínez-álvarez-69b4aa314)
 
